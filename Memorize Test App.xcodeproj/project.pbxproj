@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F1E45B92A82636A00CDF197 /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F1E45B82A82636A00CDF197 /* MemoryGame.swift */; };
 		5B0E48812A7C5B3300E63BDD /* Memorize_Test_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0E48802A7C5B3300E63BDD /* Memorize_Test_AppApp.swift */; };
 		5B0E48832A7C5B3300E63BDD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0E48822A7C5B3300E63BDD /* ContentView.swift */; };
 		5B0E48852A7C5B3400E63BDD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B0E48842A7C5B3400E63BDD /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F1E45B82A82636A00CDF197 /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGame.swift; sourceTree = "<group>"; };
 		5B0E487D2A7C5B3200E63BDD /* Memorize Test App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Memorize Test App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B0E48802A7C5B3300E63BDD /* Memorize_Test_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memorize_Test_AppApp.swift; sourceTree = "<group>"; };
 		5B0E48822A7C5B3300E63BDD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -51,6 +53,7 @@
 		5B0E487F2A7C5B3300E63BDD /* Memorize Test App */ = {
 			isa = PBXGroup;
 			children = (
+				0F1E45B82A82636A00CDF197 /* MemoryGame.swift */,
 				5B0E48802A7C5B3300E63BDD /* Memorize_Test_AppApp.swift */,
 				5B0E48822A7C5B3300E63BDD /* ContentView.swift */,
 				5B0E48842A7C5B3400E63BDD /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F1E45B92A82636A00CDF197 /* MemoryGame.swift in Sources */,
 				5B0E48832A7C5B3300E63BDD /* ContentView.swift in Sources */,
 				5B0E48812A7C5B3300E63BDD /* Memorize_Test_AppApp.swift in Sources */,
 			);
