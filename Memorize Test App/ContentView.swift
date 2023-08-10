@@ -8,7 +8,6 @@
 import SwiftUI
 
 struct ContentView: View {
-    var emojis = ["✈️", "🚗", "🚀", "🚎", "🚛", "🚕", "🚚", "🚐", "🚝", "🚟", "🚓", "🛵", "🚲", "🛴", "🚋", "🚌", "🚁", "🚑", "🚜", "🛺", "🚒", "🛻", "🚂", "🏍️"]
     @State var emojiCount = 24
 
     var body: some View {
@@ -21,7 +20,7 @@ struct ContentView: View {
                     }
                 }
             }
-            .foregroundColor(.red)
+            .foregroundColor(Color.red)
         }
         .padding(.horizontal)
     }
